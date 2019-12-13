@@ -1,0 +1,90 @@
+Please enter the name of the configuration file:config1.txt
+The total number of k values to be tested is 4
+The total number of points in this file is 301
+
+For k-means clustering:
+For a k value of 2, here is the information regarding its clusters:
+Cluster 1 contains 127 points and the point 146 is closest to its centroid.
+Cluster 2 contains 174 points and the point 119 is closest to its centroid.
+The Dunn index for a k of 2 is 0.0178579
+For a k value of 3, here is the information regarding its clusters:
+Cluster 1 contains 84 points and the point 82 is closest to its centroid.
+Cluster 2 contains 132 points and the point 116 is closest to its centroid.
+Cluster 3 contains 85 points and the point 216 is closest to its centroid.
+The Dunn index for a k of 3 is 0.00604051
+For a k value of 4, here is the information regarding its clusters:
+Cluster 1 contains 78 points and the point 82 is closest to its centroid.
+Cluster 2 contains 78 points and the point 43 is closest to its centroid.
+Cluster 3 contains 29 points and the point 269 is closest to its centroid.
+Cluster 4 contains 116 points and the point 186 is closest to its centroid.
+The Dunn index for a k of 4 is 0.0222682
+For a k value of 5, here is the information regarding its clusters:
+Cluster 1 contains 28 points and the point 262 is closest to its centroid.
+Cluster 2 contains 71 points and the point 44 is closest to its centroid.
+Cluster 3 contains 117 points and the point 140 is closest to its centroid.
+Cluster 4 contains 59 points and the point 201 is closest to its centroid.
+Cluster 5 contains 26 points and the point 269 is closest to its centroid.
+The Dunn index for a k of 5 is 0.0174365
+
+For centroid-linkage clustering:
+Hierarchy level 0 with 301 clusters inside
+Hierarchy level 10 with 291 clusters inside
+Hierarchy level 20 with 281 clusters inside
+Hierarchy level 30 with 271 clusters inside
+Hierarchy level 40 with 261 clusters inside
+Hierarchy level 50 with 251 clusters inside
+Hierarchy level 60 with 241 clusters inside
+Hierarchy level 70 with 231 clusters inside
+Hierarchy level 80 with 221 clusters inside
+Hierarchy level 90 with 211 clusters inside
+Hierarchy level 100 with 201 clusters inside
+Hierarchy level 110 with 191 clusters inside
+Hierarchy level 120 with 181 clusters inside
+Hierarchy level 130 with 171 clusters inside
+Hierarchy level 140 with 161 clusters inside
+Hierarchy level 150 with 151 clusters inside
+Hierarchy level 160 with 141 clusters inside and a Dunn index of 0.200089
+Hierarchy level 170 with 131 clusters inside and a Dunn index of 0.200089
+Hierarchy level 180 with 121 clusters inside and a Dunn index of 0.180834
+Hierarchy level 190 with 111 clusters inside and a Dunn index of 0.157551
+Hierarchy level 200 with 101 clusters inside and a Dunn index of 0.128049
+Hierarchy level 210 with 91 clusters inside and a Dunn index of 0.113662
+Hierarchy level 220 with 81 clusters inside and a Dunn index of 0.104241
+Hierarchy level 230 with 71 clusters inside and a Dunn index of 0.0896073
+Hierarchy level 240 with 61 clusters inside and a Dunn index of 0.0997469
+Hierarchy level 250 with 51 clusters inside and a Dunn index of 0.0779306
+Hierarchy level 260 with 41 clusters inside and a Dunn index of 0.0775878
+Hierarchy level 270 with 31 clusters inside and a Dunn index of 0.0753939
+Hierarchy level 280 with 21 clusters inside and a Dunn index of 0.0431134
+Hierarchy level 290 with 11 clusters inside and a Dunn index of 0.0431134
+Hierarchy level 300 with 1 clusters inside
+
+For k-medoid clustering:
+For a k value of 2, here is the information regarding its clusters:
+Cluster 1 contains 143 points and the point 96 is its medoid.
+Cluster 2 contains 158 points and the point 121 is its medoid.
+The Dunn index for a k of 2 is 0.0184454
+For a k value of 3, here is the information regarding its clusters:
+Cluster 1 contains 83 points and the point 82 is its medoid.
+Cluster 2 contains 114 points and the point 65 is its medoid.
+Cluster 3 contains 104 points and the point 207 is its medoid.
+The Dunn index for a k of 3 is 0.0189098
+For a k value of 4, here is the information regarding its clusters:
+Cluster 1 contains 79 points and the point 82 is its medoid.
+Cluster 2 contains 74 points and the point 42 is its medoid.
+Cluster 3 contains 38 points and the point 270 is its medoid.
+Cluster 4 contains 110 points and the point 185 is its medoid.
+The Dunn index for a k of 4 is 0.0222682
+For a k value of 5, here is the information regarding its clusters:
+Cluster 1 contains 41 points and the point 251 is its medoid.
+Cluster 2 contains 83 points and the point 43 is its medoid.
+Cluster 3 contains 101 points and the point 159 is its medoid.
+Cluster 4 contains 57 points and the point 201 is its medoid.
+Cluster 5 contains 19 points and the point 268 is its medoid.
+The Dunn index for a k of 5 is 0.0232921
+
+The final analysis shows that:
+For k-means, a k value of 4 had the highest Dunn index of 0.0222682
+For centroid-linkage clustering, 141 clusters had the highest Dunn index of 0.200089
+For k-medoid, a k value of 5 had the highest Dunn index of 0.0232921
+Complete!
